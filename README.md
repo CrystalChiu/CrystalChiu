@@ -7,10 +7,10 @@
 # A Quick Introduction
 I'm a recent UC Irvine graduate (March 2025, B.S. in Computer Science) with a passion for full-stack and backend development. I’ve spent ~2 years as a part-time software developer at UCI’s Office of IT, working on Laravel + Vue.js web apps. Before I transferred to UCI, I attended Mt. Sac. and worked as a tutor for students with disabilities in the ACCESS Tech Lab, as well as a tech lead for the Google Developer Students Club (GDSC). I'm a fast learner, excited to join a team where I can grow and build impactful tech.
 
-Resume: (LINK HERE)
-Portfolio Website: In the works!
-LinkedIn: https://www.linkedin.com/in/crystal-chiu-741658232/
-Substack: https://substack.com/@thechiuchiuedition
+- [View My Resume](./CrystalChiu-Resume.pdf)
+- Portfolio Website: In the works!
+- [LinkedIn](https://www.linkedin.com/in/crystal-chiu-741658232/)
+- [Substack](https://substack.com/@thechiuchiuedition)
 
 # Get To Know Me
 - I am running a (small, for now) digital newspaper on my [Substack](https://substack.com/@thechiuchiuedition) discussing art, fashion, technology, current events, and more! 
