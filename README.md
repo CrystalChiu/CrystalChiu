@@ -2,7 +2,7 @@
 📍 Orange County, CA  
 💼 Seeking: Full-stack or Backend Dev Roles  
 🎓 UC Irvine CS '25  
-📫 crystchiu@gmail.com
+📫 crystchiu@gmail.com  
 📄 [View My Resume](./CrystalChiu-Resume.pdf)
 
 # A Quick Introduction
