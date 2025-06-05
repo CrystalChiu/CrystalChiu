@@ -16,7 +16,7 @@ Substack: https://substack.com/@thechiuchiuedition
 - I am running a (small, for now) digital newspaper on my [Substack](https://substack.com/@thechiuchiuedition) discussing art, fashion, technology, current events, and more! 
 - In my first year at UCI, I was a Graphic Design Intern for [The New University](https://www.newuniversity.org/) -- The official campus newspaper
 - I worked HR for one summer at [The California Science Center Foundation](https://californiasciencecenter.org/); I still return to do volunteer work!
-  - This year I worked ~20 hrs at the CSC Discovery Ball and assisted in raising over $1.6 million
+  - This year I volunteered ~20 hrs at the [2025 CSC Discovery Ball](https://californiasciencecenter.org/give-join/discovery-ball) and assisted in raising over $1.6 million
 - I have been learning martial arts (Muay Thai, Krav Maga, Boxing) for over a year now
 - I did ballet and competitive jazz/lyrical for 4+ years
 
