@@ -37,7 +37,7 @@ I'm a recent UC Irvine graduate (March 2025, B.S. in Computer Science) with a pa
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # Projects (WIP, Add links later)
-- ![Responsive Frontend & UI/UX Design Showcase -- Homeroot Creations Website](https://roaring-maamoul-bc4bca.netlify.app/)
+- [Responsive Frontend & UI/UX Design Showcase -- Homeroot Creations Website](https://roaring-maamoul-bc4bca.netlify.app/)
 - PopMonitor (Popmart Restock Monitor)
 - Movie Catalogue Website and Android App
 - Other Full Stack
