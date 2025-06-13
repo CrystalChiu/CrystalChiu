@@ -38,13 +38,13 @@ I'm a recent UC Irvine graduate (March 2025, B.S. in Computer Science) with a pa
 
 # Projects (WIP, Add links later)
 - [Responsive Frontend & UI/UX Design Showcase -- Homeroot Creations Website](https://roaring-maamoul-bc4bca.netlify.app/)
-- PopMonitor (Popmart Restock Monitor)
+- [PopMonitor (Popmart Restock Monitor)](https://github.com/CrystalChiu/PopMonitor)
 - Movie Catalogue Website and Android App
 - Other Full Stack
 - Web Scraping/Search Engine & Inverted Index
 - AI/ML
-- Crux Language Compiler
-- Simple Java OS
+- [Crux Language Compiler](https://github.com/CrystalChiu/CruxCompiler/tree/main)
+- [Simple Java OS](https://github.com/CrystalChiu/Simple-OS)
 - Computer Graphics
 - Other Programs/Scripts
 - Schoolwork (OOP/DSA/ETC)
