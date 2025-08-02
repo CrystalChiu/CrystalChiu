@@ -1,6 +1,6 @@
 ## Hi there, I'm Crystal 👋 
 📍 Orange County, CA  
-💼 Software Engineer 
+💼 Software Engineer  
 🎓 UC Irvine CS '25  
 📫 crystchiu@gmail.com  
 📄 [View My Resume](./CrystalChiu-Resume.pdf)
