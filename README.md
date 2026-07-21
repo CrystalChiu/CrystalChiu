@@ -6,9 +6,13 @@
 📄 [View My Resume](./CrystalChiu-Resume.pdf)
 
 # A Quick Introduction
-I'm a recent UC Irvine graduate (March 2025, B.S. in Computer Science) with a passion for full-stack development. I'm a software engineer for a civil engineering consulting firm, helping create internal software tools to assist operations! 
-During my time at UCI, I spent ~2 years as a part-time software developer at UCI’s Office of IT for Student Affairs, working on Laravel + Vue.js web apps including our Commencement Ceremony management app, which I later used to register for my own graduation. 
-I also held an internship doing graphic design for the New University Newspaper and was the secretary for our Forensic Science club. Before I transferred to UCI, I attended Mt. Sac. and worked as a tutor for students with disabilities in the ACCESS Tech Lab and acted as the technical lead for the Google Developer Students Club (GDSC). I'm a fast learner, excited to join a team where I can grow and build impactful tech!
+I'm a recent UC Irvine graduate (March 2025, B.S. in Computer Science) with a passion for full-stack development. I have over 1 year of full-time experience as a Software Engineer at a civil engineering consulting firm, where I create internal software tools, including our ERP, to improve operations!  
+
+During my time at UCI, I spent ~2 years as a part-time software developer at UCI’s Office of IT for Student Affairs, working on Laravel + Vue.js web apps including our Commencement Ceremony management app, which I later used to register for my own graduation.  
+
+I also held an internship doing graphic design for the New University Newspaper and was the secretary for our Forensic Science club. Before I transferred to UCI, I attended Mt. Sac. and worked as a tutor for students with disabilities in the ACCESS Tech Lab and acted as the technical lead for the Google Developer Students Club (GDSC).  
+
+I'm a fast learner, excited to join a team where I can grow and build impactful tech!
 
 - Portfolio Website: In the works!
 - [LinkedIn](https://www.linkedin.com/in/crystal-chiu-741658232/)
@@ -16,6 +20,7 @@ I also held an internship doing graphic design for the New University Newspaper 
 
 # Get To Know Me
 - My CS specialization at UCI was in information management and systems
+- On the side, I do software consulting and freelancing (feel free to email for any inquiries and additional details!)
 - I am running a (small, for now) digital blog on my [Substack](https://substack.com/@thechiuchiuedition) discussing art, fashion, technology, current events, and more! 
 - I worked HR for one summer at [The California Science Center Foundation](https://californiasciencecenter.org/); I still return to do volunteer work!
   - This year I volunteered ~20 hrs at the [2025 CSC Discovery Ball](https://californiasciencecenter.org/give-join/discovery-ball) and assisted in raising over $1.6 million
